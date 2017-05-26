@@ -1,0 +1,11 @@
+#header {
+  display: flex;
+}
+
+.logo {
+}
+
+.nav {
+  display: inline-block;
+  list-style-type: none;
+}
